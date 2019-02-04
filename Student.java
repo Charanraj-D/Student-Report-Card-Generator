@@ -31,46 +31,4 @@ public class Student {
 		
 	}
 
-
-	/*public int getStudentID() {
-		return studentID;
-	}
-
-
-	public void setStudentID(int studentID) {
-		this.studentID = studentID;
-	}
-
-
-	public String getStudentName() {
-		return studentName;
-	}
-
-
-	public void setStudentName(String studentName) {
-		this.studentName = studentName;
-	}
-
-
-	public String getDepartmentName() {
-		return departmentName;
-	}
-
-
-	public void setDepartmentName(String departmentName) {
-		this.departmentName = departmentName;
-	}
-
-
-	public int getSemesterNo() {
-		return semesterNo;
-	}
-
-
-	public void setSemesterNo(int semesterNo) {
-		this.semesterNo = semesterNo;
-	}
-	*/
-	
-
 }
